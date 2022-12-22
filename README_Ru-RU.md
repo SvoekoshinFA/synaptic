@@ -1,4 +1,4 @@
-
+#### Это машинный перевод
 
 Synaptic [![Статус сборки](https://travis-ci.org/cazala/synaptic.svg?branch=master)](https://travis-ci.org/cazala/synaptic) [![Присоединиться к чату на https://synapticjs.slack.com](https://synaptic-slack.now.sh/badge.svg)](https://synaptic-slack.now.sh/)
 ========
